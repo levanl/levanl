@@ -1,8 +1,8 @@
 # levanl
 
 ## projects
-- [:computer: calculator](https://levanl.github.io/calculator/index.html)
-- [:art: etch-a-sketch](https://levanl.github.io/Etch-a-Sketch/)
-- [:art: etch-a-sketch](https://advice-generator-1.netlify.app/)
-- [:art: etch-a-sketch](https://news-homepage-leo.netlify.app/)
-- [:art: etch-a-sketch](https://multy-step.netlify.app/)
+- [:computer: Calculator](https://levanl.github.io/calculator/index.html)
+- [:art: Etch-a-sketch](https://levanl.github.io/Etch-a-Sketch/)
+- [:spades: Advice generator](https://advice-generator-1.netlify.app/)
+- [:page_facing_up: News Homepage](https://news-homepage-leo.netlify.app/)
+- [:bust_in_silhouette: Multy Step Form (Angular)](https://multy-step.netlify.app/)
