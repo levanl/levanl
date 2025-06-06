@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levan Loladze</h1>
 <h3 align="center">A passionate iOS Developer from Georgia</h3>
 
-- 🌱 I’m currently learning **iOS Development at TBC IT Academy**
+- 💼 I’m currently working at **SpaceInternational**
 
 - 📫 How to reach me **levan.loladzew@gmail.com**
 
