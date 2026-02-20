@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Levan Loladze</h1>
 <h3 align="center">A passionate iOS Developer from Georgia</h3>
 
+<p align="center">
+  🌐 <a href="https://levan-portfolio.vercel.app/" target="_blank">
+    <strong>Check out my Portfolio</strong>
+  </a>
+</p>
+
 - 💼 I’m currently working at **Bank of Georgia**
 
 - 📫 How to reach me **levan.loladzew@gmail.com**
